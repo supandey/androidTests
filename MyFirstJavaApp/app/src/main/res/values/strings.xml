@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstJavaApp</string>
+    <string name="hello_earth_my_man">Hello Universe!</string>
+    <string name="random_heading">Here is a random number between 0 and %1d</string>
+</resources>

@@ -7,4 +7,7 @@
 \n\n
 This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on <i>The Lost Lennon Tapes Vol. 28</i>, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions.
 \n\n</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
 </resources>
